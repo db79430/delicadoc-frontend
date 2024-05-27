@@ -2,7 +2,7 @@
   "name": "delicadoc-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<username>.github.io/<repository>",
+  "homepage": "https://db79430.github.io/delicadoc-frontend/",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
